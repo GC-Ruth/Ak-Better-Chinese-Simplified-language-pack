@@ -1553,7 +1553,7 @@
         "Monster List": "怪物列表",
         "Spawn Object": "实体生成",
         "Spawn Object Hotkeys": "实体生成快捷键",
-        "Create object at the touch of a hotkey.": "按下快捷键生成实体",
+        "Creates object at the touch of a hotkey.": "按下快捷键生成实体",
         "Object List": "实体列表",
         "npc": "Npc",
         "gadget": "可交互物品",
